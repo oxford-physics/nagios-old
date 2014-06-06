@@ -1,0 +1,4 @@
+nagios
+======
+
+nagios puppet module
